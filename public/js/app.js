@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/js/sw.js';
+var swLocation = '/twittor/sw.js';
 
 var swReg;
 
