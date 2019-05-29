@@ -181,7 +181,7 @@ postBtn.on('click', function() {
 // Obtener mensajes del servidor
 function getMensajes() {
 
-    fetch('https://jcgt1973.github.io/twittor_push')
+    fetch('https://github.com/Jcgt1973/twittor_push/tree/master/public')
         .then( res => res.json() )
         .then( posts => {
 
