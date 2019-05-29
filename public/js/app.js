@@ -1,7 +1,7 @@
 
 var url = window.location.href;
-// var swLocation = '/twittor/sw.js';
-var swLocation = 'https://github.com/Jcgt1973/twittor_push/tree/master/public/sw.js';
+var swLocation = '/twittor/sw.js';
+
 var swReg;
 
 if ( navigator.serviceWorker ) {
